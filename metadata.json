@@ -1,0 +1,6 @@
+{
+  "name": "MyTube - Video Sharing & Streaming Platform",
+  "description": "Stream, upload, watch Shorts, subscribe to creators, create playlists, and explore trending videos on MyTube.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
